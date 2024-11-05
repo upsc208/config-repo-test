@@ -1,2 +1,6 @@
 service:
  name: test service for Production B
+
+ info:
+   name: 기훈
+   학번: 202031507
