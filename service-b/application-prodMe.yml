@@ -1,0 +1,5 @@
+service:
+  name: test service for Production B
+  info:
+    name: 기훈
+    studentNumber: 202031507
